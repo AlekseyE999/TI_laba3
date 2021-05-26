@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSRSA", "DSRSA\DSRSA.csproj", "{D636F9AE-4150-4FFC-AF16-07FBE389BE37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI", "GUI\GUI.csproj", "{262F8F24-9620-472E-854E-62F6AD7216E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D636F9AE-4150-4FFC-AF16-07FBE389BE37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D636F9AE-4150-4FFC-AF16-07FBE389BE37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D636F9AE-4150-4FFC-AF16-07FBE389BE37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D636F9AE-4150-4FFC-AF16-07FBE389BE37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{262F8F24-9620-472E-854E-62F6AD7216E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{262F8F24-9620-472E-854E-62F6AD7216E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{262F8F24-9620-472E-854E-62F6AD7216E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{262F8F24-9620-472E-854E-62F6AD7216E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03792FF5-6980-4231-9276-F1F5395293A8}
+	EndGlobalSection
+EndGlobal
